@@ -1,0 +1,19 @@
+{
+  "name": "05-express",
+  "version": "1.0.0",
+  "description": "Express JS is a framework which does the heavy lifting. \r Basically, helper functions, tools and rules that helps in building application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Ankit Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
