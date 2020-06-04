@@ -1,0 +1,15 @@
+<%- include('includes/head.ejs') %>
+<title><%= pageTitle %></title>
+</head>
+<body>
+    <head></head>
+    <main>
+        <form action="/add-user" method="POST">
+            <div>
+                <label for="title">Name</label>
+                <input type="text" name="name" id="title">
+                <button type="submit">Add User</button>
+            </div>
+        </form>
+    </main>
+<%- include('includes/end.ejs') %>
