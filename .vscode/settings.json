@@ -1,0 +1,8 @@
+{
+    "gitlab.instanceUrl": "https://gitlab.karma.org",
+    "gitlab.ca": "",
+    "gitlab.cert": "",
+    "gitlab.certKey": "",
+    "gitlab.pipelineGitRemoteName": "",
+    "gitlab.remoteName": ""
+}
